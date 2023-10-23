@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "nazev": "Svíčková jako od maminky",
+    "doba": 150,
+    "porce": 4,
+    "ingredience": [
+      "4 ks svíček",
+      "600 g hovězího masa (svíčková)",
+      "2 cibule",
+      "2 mrkve",
+      "2 petržele",
+      "2 stroužky česneku",
+      "2 lžíce oleje",
+      "1 lžíce hladké mouky",
+      "1 lžíce rajčatového protlaku",
+      "1 lžička mleté sladké papriky",
+      "1 lžička kmínu",
+      "2 bobkové listy",
+      "3 hřebíčky",
+      "250 ml vývaru (hovězího nebo zeleninového)",
+      "250 ml smetany ke šlehání (30% tuku)",
+      "Sůl a pepř podle chuti",
+      "300 g houskových středů",
+      "250 ml mléka",
+      "2 vejce",
+      "2 lžíce hladké mouky",
+      "1/2 lžičky soli",
+      "1/2 lžičky cukru"
+    ],
+    "postup": "Masa zbavte přebytečného tuku a nakrájejte na menší kousky. Opláchněte zeleninu a nakrájejte ji na hrubé kusy.\nV hrnci s vysokými stěnami rozehřejte olej a osmahněte cibuli a česnek, dokud nezezlátnou.\nPřidejte hovězí maso a osmažte ho z každé strany dozlatova. Přidejte nakrájenou zeleninu a krátce osmahněte.\nPosypte hladkou mouku, promíchejte a nechte zrát na slabém ohni asi 2 minuty.\nPřidejte rajčatový protlak, mletou sladkou papriku, kmín, bobkové listy, hřebíčky a zalijte vývarem. Osolte a opepřete podle chuti.\nPřiveďte k varu, pak stáhněte plamen na minimum, přikryjte hrnec a nechte dusit asi 1,5 - 2 hodiny, nebo dokud maso není měkké. Občas zamíchejte a přidejte vodu, pokud je omáčka příliš hustá.\nMezi tím si připravte kendlíky.\nHouskové středy zalijte mlékem a nechte asi 10 minut odstát.\nPoté přidejte rozšlehaná vejce, mouku, sůl a cukr. Vše dobře promíchejte.\nTěsto dejte do potravinové folie a vytvarujte z něj válec. Vložte jej do hrnce s vařící vodou a vařte 20-25 minut.\nHotový válec nakrájejte na plátky.\nPo uvaření maso vyjměte, bobkové listy a hřebíček odstraňte a omáčku rozmixujte dohladka.\nVraťte maso zpět do omáčky a přidejte smetanu. Dobře promíchejte a zahřejte omáčku, ale nepřivedete ji k varu.\nNakrájené knedlíky dejte na talíř, přidejte maso a bohatě zalijte omáčkou.\nZapalte svíčky a užijte si romantickou večeři ve čtyřech.",
+    "obrazek": "http://localhost:4000/assets/svickova.png"
+  },
+  {
+    "id": 1,
+    "nazev": "Chleba s máslem",
+    "doba": 5,
+    "porce": 1,
+    "ingredience": [
+      "1 krajíc chleba",
+      "1 lžíce másla"
+    ],
+    "postup": "Namažte krajíc chleba máslem. Pouze z jedné strany.",
+    "obrazek": "http://localhost:4000/assets/chleba-s-maslem.png"
+  },
+  {
+    "id": 2,
+    "nazev": "Brambory s rumem",
+    "porce": 4,
+    "doba": 20,
+    "ingredience": [
+      "brambory",
+      "rum"
+    ],
+    "postup": "Dejte vařit brambory.\nPo 20 minutách varu brambory slijte a rozdělte je na talíře.\nZalijte brambory rumem.\nDávejte pozor na hrobníka, brambory vždycky nechá a cpe se jen omáčkou.",
+    "obrazek": "http://localhost:4000/assets/brambory-s-rumem.png"
+  }
+]
